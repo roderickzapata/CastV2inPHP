@@ -1,3 +1,4 @@
+<?php
 // Create Chromecast object and give IP and Port
 $cc = new Chromecast("217.63.63.259","8009");
 
